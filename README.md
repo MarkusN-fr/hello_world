@@ -1,2 +1,6 @@
 # hello_world
-Repository test
+
+C'est un délire, on va apprendre à utiliser GitHub !
+
+Ouaaaais !
+
