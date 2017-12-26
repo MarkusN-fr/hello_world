@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Qu'est-ce que je fous ???
+=======
+Quooooi ?
+>>>>>>> 9f6c18d7e3ce799cdea9495b3eb206cf8974e0b7
